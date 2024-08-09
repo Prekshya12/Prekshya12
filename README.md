@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am 3rd year student currently pursuing my BTech CSE from USICT, GGISPU, Delhi.<br>⚡ I am hardworking, passionate, enthusiastic and totally team focused in everything I do.<br>🌱 I’m currently working on Web Development.
+🔭 I am 4th year student currently pursuing my BTech CSE from USICT, GGISPU, Delhi.<br>⚡ I am hardworking, passionate, enthusiastic and totally team focused in everything I do.<br>🌱 I’m currently working on Web Development.
 
 
 ## 🌐 Socials:
